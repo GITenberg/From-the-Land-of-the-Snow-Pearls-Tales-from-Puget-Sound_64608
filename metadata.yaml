@@ -1,0 +1,32 @@
+_repo: From-the-Land-of-the-Snow-Pearls-Tales-from-Puget-Sound_64608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Higginson, Ella
+    alias: Higginson, Ella Rhoads
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '37122'
+    url: http://www.gutenberg.org/2009/agents/37122
+    wikipedia: https://en.wikipedia.org/wiki/Ella_Rhoads_Higginson
+description: ''
+gutenberg_issued: '2021-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Puget Sound Region (Wash.) -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The flower that grew in the sand -- Esther's "Fourth" -- The blow-out
+  at Jenkins's grocery -- The takin' in of old Mis' Lane -- The maneuvering of Mrs.
+  Sybert -- A point of knuckling-down -- The cuttin'-out of Bart Winn -- Zarelda --
+  In the Bitter Root Mountains -- Patience Appleby's confessing-up -- The mother of
+  "Pills" -- Mrs. Risley's Christmas dinner.
+title: 'From the Land of the Snow-Pearls: Tales from Puget Sound'
+url: http://www.gutenberg.org/ebooks/64608
